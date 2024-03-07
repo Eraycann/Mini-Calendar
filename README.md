@@ -19,7 +19,7 @@ The *Mini Calendar* is a simple and stylish web application that displays the cu
 Simply open the HTML file in a web browser, and the Mini Calendar will show you the current date information.
 
 ## Live Demo 🌐
-Check out the live demo: [Mini Calendar Demo](#) <!-- Add your live demo link -->
+Check out the live demo: [Mini Calendar Demo](mini-calendar-lzc3pk57w-qwes-projects-d78b2ce4.vercel.app) <!-- Add your live demo link -->
 
 ## Installation 🛠️
 1. Clone the repository: `git clone https://github.com/Eraycann/Mini-Calendar`
